@@ -1,0 +1,3 @@
+Person{firstName: Tom; lastName: Cruise; address: Address{city: Minsk, street: Kutuzova, homeNumber: 1}}
+Person{firstName: Tom; lastName: Hardy; address: Address{city: Madrid, street:  Gran Via, homeNumber: 10}}
+Person{firstName: Brad; lastName: Pitt; address: Address{city: Praga, street: Ostrovni, homeNumber: 125}}
